@@ -26,7 +26,7 @@ Mobile Preview
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [monash-social-proof-section](https://monash-social-proof-section.netlify.app/)
 
 ## My process
 
